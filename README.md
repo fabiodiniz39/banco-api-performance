@@ -40,7 +40,7 @@ banco-api-performance/
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://://github.com.git
+git clone https://github.com.git
 cd banco-api-performance
 ```
 
